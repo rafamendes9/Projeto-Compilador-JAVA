@@ -1,0 +1,9 @@
+int main(){
+	int primeiro;
+	int b;	
+	if(primeiro == 1){
+	    while(primeiro > b){
+              primeiro = b;
+          }
+	}
+}
